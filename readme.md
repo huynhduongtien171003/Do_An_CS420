@@ -38,7 +38,7 @@
 
 ## ĐỒ ÁN MÔN HỌC:Chuyển Đổi Phong Cách của Ảnh
 
-##Cách chạy các file code:
+## CÁCH CHẠY CÁC FILE CODE:
 TEST
 $ python test.py --content YOUR IMAGE PATH --style YOUR IMAGE PATH --output PATH
 
