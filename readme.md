@@ -12,15 +12,14 @@
 
 ## BẢNG MỤC LỤC
 * [ Giới thiệu môn học](#gioithieumonhoc)
-* [Quá trình môn học](#quatrinh)
 * [ Giảng viên hướng dẫn](#giangvien)
 * [ Thành viên nhóm](#thanhvien)
 * [ Đồ án môn học](#doan)
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
-* **Tên môn học**:Các Vấn Đề Chọn Lọc Trong Thị Giác Máy Tính
-* **Mã môn học**: CS420
-* **Lớp học**:CS420.P11
+* **Tên môn học**: Các Vấn Đề Chọn Lọc Trong Thị Giác Máy Tính
+* **Mã môn học**:  CS420
+* **Lớp học**: CS420.P11
 * **Ngày bắt đầu**: 02/09/2024
 * **Năm học**: 2024-2025
 
