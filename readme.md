@@ -33,7 +33,7 @@
 | STT    | MSSV          | Họ và Tên              | Github                                                         | Email                   |
 | ------ |:-------------:| ----------------------:|---------------------------------------------------------------:|-------------------------:
 | 1      | 22521465      | Huỳnh Dương Tiến       |[huynhduongtien171003](https://github.com/huynhduongtien171003) |22521465@gm.uit.edu.vn   |
-| 2      | 22520970      | Lê Cao Nguyên          |                                                                |22520970@gm.uit.edu.vn   |
+| 2      | 22520970      | Lê Cao Nguyên          |[hukaiems](https://github.com/hukaiems)                         |22520970@gm.uit.edu.vn   |
 
 ## ĐỒ ÁN MÔN HỌC:Chuyển Đổi Phong Cách của Ảnh
 
